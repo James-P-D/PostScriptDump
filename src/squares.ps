@@ -1,0 +1,25 @@
+%!
+%% squares
+
+% Pass R G B X Y as parameters
+/drawsquare {
+   newpath
+   moveto         % Use X and Y from Stack
+   0 100 rlineto  % Draw relative lines
+   100 0 rlineto
+   0 -100 rlineto
+   closepath
+   setrgbcolor    % Use R G B from stack
+   fill
+} def
+
+
+1 0 0 100 600 drawsquare
+
+0 1 0 100 700 drawsquare
+
+0 0 1 200 600 drawsquare
+
+1 0 1 200 700 drawsquare
+
+showpage
