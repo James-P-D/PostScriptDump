@@ -11,6 +11,6 @@ To run:
 
 ## Contents
 
-[hello.ps](https://github.com/James-P-D/PostScriptDump/blob/main/src/hello.ps)
-[square.ps](https://github.com/James-P-D/PostScriptDump/blob/main/src/square.ps)
-[squares.ps](https://github.com/James-P-D/PostScriptDump/blob/main/src/squares.ps)
+* [hello.ps](https://github.com/James-P-D/PostScriptDump/blob/main/src/hello.ps)  
+* [square.ps](https://github.com/James-P-D/PostScriptDump/blob/main/src/square.ps)  
+* [squares.ps](https://github.com/James-P-D/PostScriptDump/blob/main/src/squares.ps)  
